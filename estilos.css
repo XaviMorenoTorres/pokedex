@@ -1,3 +1,8 @@
 body{
-    background-image: url(img/kanto-map.jpeg)
+    background-image: url(img/kanto-map.jpeg);
+    background-size: 100% 200%;
+}
+img{
+    margin-top: 10px;
+    width: 24%;
 }
