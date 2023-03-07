@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+h2{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+p{
+    font-family: 'Press Start 2P', cursive;
+}
+mark{
+    background-color: rgb(244, 163, 42);
+    border-radius: 6px;
+    padding: 5px;
+}
+img{
+    width: 25%;
+}
+button{
+    background-color: rgb(255, 0, 0);
+    border-radius: 6px;
+    padding: 5px;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+    border: red;
+}
